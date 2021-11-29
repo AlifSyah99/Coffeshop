@@ -74,11 +74,7 @@ a.active {
 /* bagian latar */
 .bungkus__latar {
   width: 100%;
-<<<<<<< HEAD
-  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(/img/latar.jpg);
-=======
   background: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.4)),url(/img/latar.jpg);
->>>>>>> 6676ef23cfee33a1272b56cd5332dee884be6f8a
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
